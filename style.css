@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(100, 91, 91);
+    color: white;
+}
+
+button{
+    width: 100px;
+    padding: 13px;
+    border-radius: 30px;
+}
+
+.head{
+    background-color: black;
+    color: #a7a6a6;
+}
+
+.tails{
+    background-color: #a7a6a6;
+    color: black;
+}
